@@ -1,1 +1,21 @@
-{"schema_version": "0.02", "scores": [{"name": "Accuracy", "value": 0.87834549878345503}, {"name": "F1 score", "value": 0.19590643274853803}, {"name": "Precision", "value": 0.41104294478527609}, {"name": "Recall", "value": 0.12859884836852206}]}
+{
+  "schema_version": "0.02",
+  "scores": [
+    {
+      "name": "Accuracy",
+      "value": 0.87834549878345503
+    },
+    {
+      "name": "F1 score",
+      "value": 0.19590643274853803
+    },
+    {
+      "name": "Precision",
+      "value": 0.41104294478527609
+    },
+    {
+      "name": "Recall",
+      "value": 0.12859884836852206
+    }
+  ]
+}
